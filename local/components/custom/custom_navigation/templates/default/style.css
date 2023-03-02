@@ -1,0 +1,10 @@
+.lighthouse-wrapper{
+    color: #aab1b4;
+    background: #fff;
+    border: 2px solid #eff0f1;
+    line-height: 28px;
+    padding: 0 18px;
+}
+.lighthouse-body{
+    color: #000000;
+}
